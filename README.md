@@ -1,11 +1,11 @@
-### Hi this is me 👋
-
+### <h1 align="center"> 👋 Hello World, I'm Moataz! </h1>
+B.Sc. in Software Engineering with specialization in Data Science and Full Stack WEB Development course graduate.
+Self-learning ability, high work ethic, systemic vision and ability to design and build a system independently.
 
 Here are some ideas to get you started:
+Team 
+- 🔭 I’m currently working on my personal website.
+- 🌱 I’m currently learning AWS.
+- 🤔 I’m looking for help with find my first position as software developer.
+- 💬 Ask me about Anything.
 
-- 🔭 I’m currently working on ... Personal Website
-- 🌱 I’m currently learning ... AWS
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... find first position as software developer
-- 💬 Ask me about ... Anything
--->
